@@ -23,4 +23,4 @@ This is a web application that is primarily used to track Covid cases all around
 - Chart.JS
 - Material UI
 - Axios
-- Github Pages
+- Github Pages (for deployment)
