@@ -15,7 +15,7 @@ Check out the app <a href='https://sochikenny.github.io/corona-chaser/'> HERE </
 ### Description
 
 This is a web application that is primarily used to track Covid cases all around the world. It also specifically tracks the cases in every country and uses a visualization tool to show the data. 
-This application uses live data from a third party API: https://covid19.mathdro.id/api 
+- This application uses live data from a third party API: https://covid19.mathdro.id/api 
 
 
 ### Technologies Used
