@@ -19,6 +19,7 @@ class App extends React.Component{
 
         return (
             <div className={styles.container}>
+                <jumbotron> <h1 className='chase-covid'>Chasing Covid</h1></jumbotron>
                 <Cards data={data} />
                 <CountryPicker />
                 <Chart />
