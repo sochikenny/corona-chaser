@@ -1,4 +1,4 @@
-# Corona Chaser
+# Corona Chaser App
 
 
 ## Developed by
