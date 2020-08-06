@@ -30,4 +30,5 @@ This is a web application that is primarily used to track Covid cases all around
 ### Directions for Future Development
 
 - Add another page that tracks Covid data by major cities in individual countries
+- Add another page that specifically handles tracks the Covid data in all states in the U.S since this application is U.S based
 
