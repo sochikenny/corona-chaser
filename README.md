@@ -28,3 +28,6 @@ This is a web application that is primarily used to track Covid cases all around
 
 
 ### Directions for Future Development
+
+- Add another page that tracks Covid data by major cities in individual countries
+
